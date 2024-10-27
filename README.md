@@ -27,9 +27,6 @@ This Java application performs database operations on a PostgreSQL table named `
 
 ### Demonstration Video Link
 
-https://share.vidyard.com/watch/4ryjnxtZT3DAU4gQLizmhb?
-
-
 
 ### Author Name
 Rama Alkhouli
